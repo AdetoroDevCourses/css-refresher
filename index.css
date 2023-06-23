@@ -1,0 +1,109 @@
+/* * {
+    background-color: red;
+}
+
+/* div {
+    position: static;
+    border: 3px solid green;
+} */
+
+/* div {
+    position: relative;
+    border: 3px solid green;
+    top: 60px
+} */
+
+/* div {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border: 3px solid green;
+
+    top: 60px
+} */
+
+/* .absolute {
+    position: fixed;
+    top: 70px;
+    width: 300px;
+    height: 200px;
+    border: 3px solid white;
+    top: 80px;
+} */
+/*
+.container{
+    position: relative;
+}
+.topleft{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 19px;
+}
+
+container-img {
+    width: 100%;
+    height: auto;
+    opacity: 0.2;
+}
+.topright{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 19px;
+}
+
+.bottomright{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 19px;
+}
+
+.bottomleft{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 19px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+#float-img {
+    float: right
+}
+
+#floatRight-img {
+    float: left
+} */
+
+/* .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: blue;
+    padding: 10px;
+}
+.grid-item {
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+} */
+
+.flex-container {
+    display: flex;
+    background-color: violet;
+}
+
+.flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    background-color: purple;
+}
